@@ -1,0 +1,23 @@
+Step 1: Install MetaMask
+1. Open Google Chrome.
+2. Visit the official website: https://metamask.io/
+3. Click on Download.
+4. Select Chrome and click Add to Chrome.
+5. Click Add Extension.
+
+Step 2: Create MetaMask Wallet
+1. Open the MetaMask extension.
+2. Click on Create a New Wallet.
+3. Set a secure password.
+4. Save the Secret Recovery Phrase safely.
+5. Confirm the recovery phrase.
+6. Your MetaMask wallet is ready.
+
+Step 3: Understand Ether Transaction
+1. Open MetaMask wallet.
+2. Select the Ethereum network.
+3. Click on Send.
+4. Enter the receiver's Ethereum wallet address.
+5. Enter the amount of ETH to transfer.
+6. MetaMask displays the estimated network fee (Gas Fee).
+7. Review the transaction details and click Confirm.
