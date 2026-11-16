@@ -1,0 +1,77 @@
+cases.
+Survey Report on Types of Blockchains and Their Real-Time Use Cases
+1. Aim
+To study different types of blockchain technology and understand their real-time applications in various industries.
+
+2. Introduction
+Blockchain is a decentralized digital ledger technology used to store information securely. Data is stored in blocks that are connected to each other using cryptography. Blockchain provides transparency, security, and immutability.
+
+3. Types of Blockchains
+1. Public Blockchain
+- Open to everyone.
+- Anyone can participate in transactions.
+- Highly transparent and decentralized.
+- Examples: Bitcoin, Ethereum.
+Real-Time Use Cases:
+- Cryptocurrency transactions.
+- Decentralized finance (DeFi).
+- NFT marketplaces.
+
+2. Private Blockchain
+- Controlled by a single organization.
+- Only authorized users can access it.
+- Provides privacy and better control.
+Real-Time Use Cases:
+- Banking systems.
+- Company record management.
+- Supply chain management.
+
+3. Consortium Blockchain
+- Managed by multiple organizations.
+- Access is limited to selected members.
+- Provides shared control and transparency.
+Real-Time Use Cases:
+- Banking networks.
+- Healthcare data sharing.
+- Logistics and supply chains.
+
+4. Hybrid Blockchain
+- Combination of public and private blockchains.
+- Some information is private, while selected information is public.
+- Provides flexibility and security.
+Real-Time Use Cases:
+- Government records.
+- Real estate management.
+- Healthcare applications.
+
+4. Comparison of Blockchain Types
+Type	         Access	                   Control	                    Example
+Public	       Everyone	                 Decentralized	                Bitcoin
+Private	       Authorized                users	Single organization	    Hyperledger Fabric (private deployment)
+Consortium	   Selected organizations	   Multiple organizations	        Banking consortium
+Hybrid	       Public + Private	         Combined control	Hybrid       enterprise systems
+
+5. Real-Time Applications of Blockchain
+1. Banking: Secure money transfers and payments.
+2. Healthcare: Secure medical record sharing.
+3. Supply Chain: Tracking products from manufacturer to customer.
+4. Education: Verification of certificates and degrees.
+5. Real Estate: Digital property records and ownership tracking.
+6. Voting: Transparent and tamper-resistant voting systems.
+7. Cryptocurrency: Digital payments using Bitcoin and Ethereum.
+6. Advantages of Blockchain
+- High security.
+- Transparency.
+- Decentralization.
+- Data cannot be easily modified.
+- Reduces intermediaries.
+- Improves transaction tracking.
+7. Disadvantages of Blockchain
+- High energy consumption in some networks.
+- Scalability issues.
+- Transaction fees.
+- Complex implementation.
+- Regulatory challenges.
+8. Conclusion
+Blockchain technology provides a secure and transparent way to store and share data. Public, private, consortium, and hybrid blockchains
+are used in different industries. Blockchain has important applications in banking, healthcare, education, supply chain management, and cryptocurrency.
